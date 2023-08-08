@@ -2,7 +2,7 @@ const { Network, Alchemy } = require("alchemy-sdk");
 
 // Optional config object, but defaults to demo api-key and eth-mainnet.
 const settings = {
-  apiKey: "-_HOpivT8VS", // Replace with your Alchemy API Key.
+  apiKey: "<API-KEY>", // Replace with your Alchemy API Key.
   network: Network.ETH_MAINNET, // Replace with your network.
 };
 const alchemy = new Alchemy(settings);
