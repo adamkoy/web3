@@ -1,0 +1,61 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Compiled files
+/dist/
+/build/
+/out/
+/.next/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*_i.c
+*_p.c
+*.ilk
+*.opendb
+*.suo
+*.pdb
+*.user
+*.dbmdl
+*.dbproj.user
+*.VC.db
+*.VC.VC.opendb
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Env files
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled Java classes
+*.class
+
+# Gradle files
+.gradle/
+build/
+*.iml
+
+# Maven files
+target/
